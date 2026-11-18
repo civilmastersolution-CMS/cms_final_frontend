@@ -6,7 +6,7 @@
 
   <!-- Home Page -->
   <url>
-    <loc>https://cms-testing-frontend.vercel.app/</loc>
+    <loc>https://www.civilmastersolution.com/</loc>
     <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
   <!-- Home -->
   <url>
-    <loc>https://cms-testing-frontend.vercel.app/home</loc>
+    <loc>https://www.civilmastersolution.com/home</loc>
     <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -22,7 +22,7 @@
 
   <!-- Products Page -->
   <url>
-    <loc>https://cms-testing-frontend.vercel.app/product</loc>
+    <loc>https://www.civilmastersolution.com/product</loc>
     <lastmod>2025-12-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -30,7 +30,7 @@
 
   <!-- Projects Reference Page -->
   <url>
-    <loc>https://cms-testing-frontend.vercel.app/projects-reference</loc>
+    <loc>https://www.civilmastersolution.com/projects-reference</loc>
     <lastmod>2025-12-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -38,7 +38,7 @@
 
   <!-- News & Articles Page -->
   <url>
-    <loc>https://cms-testing-frontend.vercel.app/news-article</loc>
+    <loc>https://www.civilmastersolution.com/news-article</loc>
     <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -46,7 +46,7 @@
 
   <!-- News Detail Page (Dynamic) -->
   <url>
-    <loc>https://cms-testing-frontend.vercel.app/new</loc>
+    <loc>https://www.civilmastersolution.com/new</loc>
     <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -54,7 +54,7 @@
 
   <!-- Article Detail Page (Dynamic) -->
   <url>
-    <loc>https://cms-testing-frontend.vercel.app/article</loc>
+    <loc>https://www.civilmastersolution.com/article</loc>
     <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
